@@ -27,7 +27,7 @@
       $(document).ready(function () {
         $.ajax({
           type: "GET",
-          url: "http://localhost:3000/api/users",
+          url: "https://user-service-ajve.onrender.com",
           success: function (response) {
             const usersTableBody = $("#usersTableBody");
             response.forEach((user) => {
