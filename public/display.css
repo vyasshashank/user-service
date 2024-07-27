@@ -39,7 +39,7 @@ h1 {
   background: linear-gradient(45deg, #decbdd, #dfddea);
   /* background: linear-gradient(45deg, #a180a8, #757277); */
   /* background: linear-gradient(45deg, #ff6f61, #d742f4); */
-  -webkit-backgroundclip:text;
+  -webkit-background-clip:text;
   -webkit-text-fill-color: transparent;
   text-align: center;
   margin-bottom: 20px;
