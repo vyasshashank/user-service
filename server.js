@@ -12,7 +12,7 @@ const app = express();
 connectDB();
 app.use(
   cors({
-    origin: "https://user-service-ajve.onrender.com",
+    origin: "https://user-service-ajve.onrender.com/api/users",
   })
 );
 app.use(bodyParser.json());
