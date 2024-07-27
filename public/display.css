@@ -33,11 +33,11 @@ background-image: linear-gradient(225deg, #d32d8b 0%, #451570 50%, #1f6ca2 100%)
 }
 
 h1 {
-  font-family: "Courier New", Courier, monospace";
-  font-size: 50px;
+ 
+  font-family:'Courier New', Courier, monospace;
+  font-size:50px;
   font-weight: bold;
   background: linear-gradient(45deg, #decbdd, #dfddea);
-
   /* background: linear-gradient(45deg, #a180a8, #757277); */
   /* background: linear-gradient(45deg, #ff6f61, #d742f4); */
   -webkit-background-clip: text;
